@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hello@nxos.org",
+                "Name": "Nitrux Latinoamericana S.C."
+            }
+        ],
+        "Id": "Mint",
+        "License": "GPLv3",
+        "Name": "Mint"
+    }
+}

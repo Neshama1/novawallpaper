@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hello@nxos.org",
+                "Name": "Nitrux Latinoamericana S.C."
+            }
+        ],
+        "Id": "Bubblegum",
+        "License": "GPLv3",
+        "Name": "Bubblegum"
+    }
+}
