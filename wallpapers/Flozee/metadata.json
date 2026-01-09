@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "novaflowos@gmail.com",
+                "Name": "Miguel Beltrán"
+            }
+        ],
+        "Id": "Flozee",
+        "License": "GPLv3",
+        "Name": "Flozee"
+    }
+}
